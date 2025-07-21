@@ -1,4 +1,4 @@
-Un ingénieur Software/Cloud qui cherche à avoir un impact positif sur le monde.<br>
+Un ingénieur Software qui cherche à avoir un impact positif sur le monde.<br>
 
 ➢ Fullstack : JavaScript, React, HMTL/CSS<br>
 ➢ DevOps : Docker, Kubernetes, Grafana/Prometheus, Terraform, GitHub Actions<br>
