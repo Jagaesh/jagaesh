@@ -1,4 +1,4 @@
-Un ingénieur Software qui cherche à avoir un impact positif sur le monde.<br>
+Un ingénieur Software qui cherche à avoir un impact positif sur le monde.<br><br>
 
 ➢ Fullstack : JavaScript, React.js, Node.js, HMTL/CSS<br>
 ➢ Cloud : Amazon Web Services, full-stack serverless web app automated via CI/CD<br>
