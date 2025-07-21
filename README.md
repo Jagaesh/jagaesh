@@ -1,6 +1,16 @@
-# À Propos :
-Un ingénieur Software/Cloud qui cherche à avoir un impact positif sur le monde. 💚<br><br><br>➣ Conception avancée de logiciels<br>➣ Cloud (Amazon Web Services)<br>➣ IA (Deep Learning, Prompting, QA)<br><br><br>Belle journée !<br>
+Un ingénieur Software/Cloud qui cherche à avoir un impact positif sur le monde.
 
-# GitHub :
-![](https://nirzak-streak-stats.vercel.app/?user=Jagaesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagaesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+➢ Fullstack : JavaScript, React, HMTL/CSS
+➢ DevOps : Docker, Kubernetes, Grafana/Prometheus, Terraform, GitHub Actions
+➢ Cloud : Amazon Web Services
+
+Portfolio : jagaesh.github.io
+Cloud Resume Challenge : cloud-resume-challenge.charlescloudjourney.com
+SmartBrain Face Recognition : soon available
+
+
+Réside actuellement à Montpellier (peut déménager à tout moment). 
+Contactez-moi par mail ou sur LinkedIn,
+
+
+Belle journée !
