@@ -1,6 +1,6 @@
 Un ingénieur Software qui cherche à avoir un impact positif sur le monde. 💚<br><br>
 
-➢ Full-stack : JavaScript, React, Node.js, Express.js, HMTL/CSS<br>
+➢ Full-stack : Python, JavaScript, React, Node.js, Express, HMTL/CSS<br>
 ➢ Cloud : Amazon Web Services, full-stack serverless web app automated via CI/CD<br>
 ➢ DevOps : Docker, Kubernetes, Grafana/Prometheus, Terraform, GitHub Actions<br><br>
 
