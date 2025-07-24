@@ -5,7 +5,7 @@ Awesome Projects :<br>
 [Cloud Resume Challenge](https://cloud-resume-challenge.charlescloudjourney.com)<br>
 [SmartBrain Face Recognition (soon available)](https://github.com/Jagaesh)<br><br>
 
-Have a great day !<br>
+Have a great day !<br><br>
 
 ---
 <br>
