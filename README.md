@@ -1,11 +1,22 @@
-Un ingénieur Software qui cherche à avoir un impact positif sur le monde. 💚<br><br>
-
-➢ Full-stack : Python, JavaScript, React, Node.js, Express, HMTL/CSS<br>
-➢ Cloud : Amazon Web Services, full-stack serverless web app automated via CI/CD<br>
-➢ DevOps : Docker, Kubernetes, Grafana/Prometheus, Terraform, GitHub Actions<br><br>
+A Software Engineer looking to make a positive impact on the world. 💚<br><br>
 
 [Portfolio](https://jagaesh.github.io)<br>
 [Cloud Resume Challenge](https://cloud-resume-challenge.charlescloudjourney.com)<br>
-[SmartBrain Face Recognition (soon available)](https://github.com/Jagaesh)<br><br><br>
+[SmartBrain Face Recognition (soon available)](https://github.com/Jagaesh)<br><br>
 
-Belle journée !
+Full-stack :<br>
+➢ Python, JavaScript, React<br>
+➢ Node.js, Express, REST APIs<br>
+➢ HMTL/CSS<br><br>
+
+Cloud :<br>
+➢ Amazon Web Services<br>
+➢ Full-stack serverless web app<br>
+➢ Automated via CI/CD<br><br>
+
+DevOps :<br>
+➢ Docker, Kubernetes, Grafana/Prometheus<br>
+➢ CI/CD with GitHub Actions<br>
+➢ IaC with Terraform<br><br><br>
+
+Have a great day !
