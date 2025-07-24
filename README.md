@@ -1,8 +1,14 @@
 A Software Engineer looking to make a positive impact on the world. 💚<br><br>
 
+Awesome Projects :<br>
 [Portfolio](https://jagaesh.github.io)<br>
 [Cloud Resume Challenge](https://cloud-resume-challenge.charlescloudjourney.com)<br>
 [SmartBrain Face Recognition (soon available)](https://github.com/Jagaesh)<br><br>
+
+Have a great day !<br>
+
+---
+<br>
 
 Full-stack :<br>
 ➢ Python, JavaScript, React<br>
@@ -19,4 +25,4 @@ DevOps :<br>
 ➢ CI/CD with GitHub Actions<br>
 ➢ IaC with Terraform<br><br><br>
 
-Have a great day !
+
