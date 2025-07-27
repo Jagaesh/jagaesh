@@ -1,9 +1,9 @@
 A Software Engineer looking to make a positive impact on the world. 💚<br><br>
 
 Awesome Projects :<br>
+[SmartBrain Face Recognition (soon available)](https://github.com/Jagaesh)<br>
 [Cloud Resume Challenge](https://cloud-resume-challenge.charlescloudjourney.com)<br>
-[RoboFriends](https://jagaesh.github.io/RoboFriends)<br>
-[SmartBrain Face Recognition (soon available)](https://github.com/Jagaesh)<br><br>
+[RoboFriends](https://jagaesh.github.io/RoboFriends)<br><br>
 
 Have a great day !<br><br>
 
