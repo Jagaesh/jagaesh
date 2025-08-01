@@ -1,6 +1,3 @@
-# About Me
-💚 A Software Engineer looking to make a positive impact on the world.<br><br>
-
 # 3 Awesome Projects (Check them out !)
 
 🖼️ [SmartBrain Face Recognition](https://jagaesh.github.io/smart-brain)<br>
@@ -18,7 +15,7 @@ Have a great day ! 🌱<br><br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagaesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>
 
-## Stacks Live
+# Stacks Live
 
 #### Full-stack :<br>
 ➢ Python, JavaScript, React<br>
@@ -35,3 +32,5 @@ Have a great day ! 🌱<br><br>
 ➢ CI/CD with GitHub Actions<br>
 ➢ IaC with Terraform<br><br>
 
+# About Me
+A Software Engineer looking to make a positive impact on the world. 💚<br><br>
