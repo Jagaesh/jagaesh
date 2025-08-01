@@ -5,7 +5,7 @@ Create your free account and detect faces in any online image !<br><br>
 🚀 [Cloud Resume Challenge](https://cloud-resume-challenge.charlescloudjourney.com)<br>
 Learn step-by-step how to deploy a serverless API on the AWS Cloud.<br><br>
 🤖 [RoboFriends](https://jagaesh.github.io/robofriends)<br>
-Simply enjoy robots' company.<br><br>
+Enjoy robots' company.<br><br>
 
 Have a great day ! 🌱<br><br>
 
