@@ -1,9 +1,7 @@
-About Me
----
+## About Me
 💚 A Software Engineer looking to make a positive impact on the world.<br><br><br>
 
-3 Awesome Projects (Check them out !)
----
+## 3 Awesome Projects (Check them out !)
 
 🖼️ [SmartBrain Face Recognition](https://jagaesh.github.io/smart-brain)<br>
 Create your account and detect faces in any online image !<br><br>
@@ -12,8 +10,7 @@ Learn step-by-step how to deploy a serverless API on the Cloud.<br><br>
 🤖 [RoboFriends](https://jagaesh.github.io/robofriends)<br>
 Simply enjoy robots' company.<br><br><br>
 
-Stacks Live
----
+## Stacks Live
 
 #### Full-stack :<br>
 ➢ Python, JavaScript, React<br>
@@ -30,4 +27,11 @@ Stacks Live
 ➢ CI/CD with GitHub Actions<br>
 ➢ IaC with Terraform<br><br><br>
 
-Have a great day ! 🌱<br>
+Have a great day ! 🌱<br><br><br>
+
+
+# GitHub
+
+![](https://nirzak-streak-stats.vercel.app/?user=Jagaesh&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagaesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
