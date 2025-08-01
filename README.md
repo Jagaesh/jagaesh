@@ -9,6 +9,9 @@ Simply enjoy robots' company.<br><br>
 
 Have a great day ! 🌱<br><br>
 
+## About Me
+A Software Engineer looking to make a positive impact on the world. 💚<br><br>
+
 ## GitHub
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Jagaesh&theme=dark&hide_border=false)<br/>
@@ -32,5 +35,3 @@ Have a great day ! 🌱<br><br>
 ➢ CI/CD with GitHub Actions<br>
 ➢ IaC with Terraform<br><br>
 
-## About Me
-A Software Engineer looking to make a positive impact on the world. 💚<br><br>
