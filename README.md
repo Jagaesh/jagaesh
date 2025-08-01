@@ -1,6 +1,3 @@
-## About Me
-A Software Engineer looking to make a positive impact on the world. 💚<br><br>
-
 # 3 Awesome Projects (Check them out !)
 
 🖼️ [SmartBrain Face Recognition](https://jagaesh.github.io/smart-brain)<br>
@@ -11,6 +8,9 @@ Learn step-by-step how to deploy a serverless API on the AWS Cloud.<br><br>
 Simply enjoy robots' company.<br><br>
 
 Have a great day ! 🌱<br><br>
+
+## About Me
+A Software Engineer looking to make a positive impact on the world. 💚<br><br>
 
 ## GitHub
 
