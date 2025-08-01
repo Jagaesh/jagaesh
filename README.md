@@ -2,10 +2,8 @@ About Me
 ---
 💚 A Software Engineer looking to make a positive impact on the world.<br><br><br>
 
-Awesome Projects (Check them out !)
+3 Awesome Projects (Check them out !)
 ---
-<br>
-
 
 🖼️ [SmartBrain Face Recognition](https://jagaesh.github.io/smart-brain)<br>
 Create your account and detect faces in any online image !<br><br>
@@ -16,7 +14,6 @@ Simply enjoy robots' company.<br><br><br>
 
 Stacks Live
 ---
-<br>
 
 #### Full-stack :<br>
 ➢ Python, JavaScript, React<br>
